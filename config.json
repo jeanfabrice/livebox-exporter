@@ -1,0 +1,5 @@
+{
+  "hostname" : "192.168.1.1",
+  "login"    : "admin",
+  "password" : "my_secret_password"
+}
